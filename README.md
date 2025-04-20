@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit yadav</h1>
 <h3 align="center">passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbca456&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbca456" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitbca456" alt="rohitbca456" /></a> </p>
 
 - 🔭 I’m currently working on [E-commerce backend](https://github.com/RohitBCA456/E-commerce)
@@ -19,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohit yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit yadav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-yadav-522032353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit yadav" height="30" width="40" /></a>
 <a href="https://instagram.com/_rohittttt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rohittttt_" height="30" width="40" /></a>
 </p>
 
