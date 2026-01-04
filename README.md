@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 About Me
-I’m a **backend-first developer** focused on building **real, usable systems** — not demos.
+I’m a **backend-first developer** focused on building **real, usable systems**, not demos.
 
 I work deeply with **Node.js backends**, design clean APIs, connect them with **React & React Native frontends**, and experiment with **LLMs** where they actually add value.
 
