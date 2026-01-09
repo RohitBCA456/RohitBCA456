@@ -82,7 +82,7 @@ A role-based appointment system with booking, confirmations, and real-time inter
 
 ## 📄 Resume
 📌 View my resume:  
-https://drive.google.com/file/d/1jtKbVtW1EP0gWAm8ddlvDLvW-G3FFv55/view?usp=drivesdk
+https://drive.google.com/file/d/1_LCmcalG552dRCoRHxQb9r2oxIdTr-St/view?usp=drivesdk
 
 ---
 
