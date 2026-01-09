@@ -45,6 +45,13 @@ I prefer **deterministic systems**, predictable behavior, and code that scales c
 - Git & GitHub  
 - Docker (basics)
 
+**Third-Party Integrations**
+- RabbitMQ
+- PayPal Payment Gateway
+- Stripe Payment Gateway
+- Twilio
+- NodeMailer
+
 ---
 
 ## 💻 Projects I’ve Built
@@ -76,7 +83,6 @@ A role-based appointment system with booking, confirmations, and real-time inter
 ## 📫 Let’s Connect
 - **Email:** rohit7120yadav@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/rohit-yadav-522032353  
-- **Instagram:** https://instagram.com/agnx.exe_  
 
 ---
 
