@@ -1,101 +1,106 @@
-# 👋 Hi, I’m Rohit Yadav
+👋 Hi, I’m Rohit Yadav
+======================
 
-🚀 **Backend Developer | Full-Stack in Progress | LLM Explorer**  
-🇮🇳 India  
+🚀 **Backend Architect | AI Systems Developer | Full-Stack (React)** 🇮🇳 India
 
----
+🧠 About Me
+-----------
 
-## 🧠 About Me
-I’m a **backend-first developer** focused on building **real, usable systems**, not demos.
+I am a **backend-heavy engineer** specializing in building reliable, high-scale systems. I focus on **Node.js** architecture, **event-driven microservices**, and creating **deterministic memory layers** for LLMs.
 
-I work deeply with **Node.js backends**, design clean APIs, connect them with **React & React Native frontends**, and experiment with **LLMs** where they actually add value.
+I build frontends exclusively in **React**, ensuring they are clean, functional, and tightly integrated with complex backend logic. I value **predictable system behavior** over "black-box" magic.
 
-I prefer **deterministic systems**, predictable behavior, and code that scales cleanly.
+🔥 Current Focus
+----------------
 
----
+*   **Event-Driven Architecture:** Using **RabbitMQ** for asynchronous task processing.
+    
+*   **Intelligent Context:** Building memory engines to give AI agents long-term persistence.
+    
+*   **System Automation:** Developing **DockerizeAI** to bridge the gap between code and infrastructure.
+    
+*   **Real-Time Web:** Scaling **Socket.io** for instant, multi-user notifications.
+    
 
-## 🔥 What I’m Working On
-- Backend development with **Node.js & Express**
-- Full-stack apps using **React**
-- Mobile apps using **React Native**
-- Exploring **LLM-based features**
-- API testing using **Node test environments**
+🛠️ Tech Stack
+--------------
 
----
+**Backend & Infrastructure**
 
-## 🛠️ Tech Stack
-**Languages**
-- JavaScript  
-- C  
+*   **Node.js & Express.js** (Core Specialization)
+    
+*   **MongoDB** (Complex Aggregations & Database Design)
+    
+*   **RabbitMQ** (Message Queuing & Microservices)
+    
+*   **Socket.io** (Real-time, Bi-directional communication)
+    
+*   **Docker** (Containerization & DevOps Automation)
+    
 
-**Backend**
-- Node.js  
-- Express.js  
-- MongoDB  
-- REST APIs  
+**Frontend (Web)**
 
-**Frontend / Mobile**
-- React  
-- React Native  
-- HTML, CSS, Bootstrap  
+*   **React.js** (Hooks, Context API, Redux)
+    
+*   **Tailwind CSS / Bootstrap** (Responsive UI)
+    
+*   **HTML5 & CSS3**
+    
 
-**Testing & Tools**
-- Node.js Test Environment  
-- Postman  
-- Git & GitHub  
-- Docker (basics)
+**Languages & Tools**
+
+*   **JavaScript (ES6+)** & **C**
+    
+*   **Postman** (Advanced API Testing)
+    
+*   **Node.js Test Environment** (Unit & Integration Testing)
+    
+*   **Git & GitHub** (Version Control)
+    
 
 **Third-Party Integrations**
-- RabbitMQ
-- PayPal Payment Gateway
-- Stripe Payment Gateway
-- Twilio
-- NodeMailer
 
----
+*   **Payments:** PayPal & Stripe Gateway
+    
+*   **Communication:** Twilio (SMS) & NodeMailer (Email)
+    
 
-## 💻 Projects I’ve Built
-### 🔹 Service Provider Application
-A full-stack platform where users can discover service providers, book services, and manage interactions with a clean backend architecture.
+💻 Featured Projects
+--------------------
 
-### 🔹 DevOps Agent (Deterministic)
-A **non-AI, deterministic DevOps agent** that generates system architecture outputs, configuration files, and operational details with predictable behavior.
+### 🔹 NotifyHub (Real-Time Alert Engine)
 
-### 🔹 E-Commerce Backend
-A scalable backend system handling products, users, authentication, carts, and orders using REST APIs.
+An asynchronous notification platform. It uses **RabbitMQ** to queue alerts and **Socket.io** to push them to the **React** frontend instantly, ensuring no message is lost during high traffic.
 
-### 🔹 Appointment Booking System
-A role-based appointment system with booking, confirmations, and real-time interactions between users.
+### 🔹 DockerizeAI (Intelligent DevOps)
 
-👉 All projects live here:  
-**https://github.com/RohitBCA456**
+A deterministic tool that analyzes project structures and automatically generates optimized **Docker** configurations and system architecture maps.
 
----
+### 🔹 Intelligent Memory Engine
 
-## 🎯 My Development Philosophy
-- Backend logic first
-- Deterministic systems over magic
-- Clean APIs > complicated UI
-- Build → Test → Improve
+A backend service designed to provide LLMs with a "long-term memory" layer, using structured context retrieval to make AI responses more consistent and relevant over time.
 
----
+### 🔹 Service Provider & E-Commerce Platforms
 
-## 📫 Let’s Connect
-- **Email:** rohit7120yadav@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/rohit-yadav-522032353  
+End-to-end applications featuring **React** frontends, secure **PayPal/Stripe** integrations, and robust role-based authentication systems.
 
----
+👉 **Explore my repositories:** [github.com/RohitBCA456](https://github.com/RohitBCA456)
 
-## 📄 Resume
-📌 View my resume:  
-https://drive.google.com/file/d/1_LCmcalG552dRCoRHxQb9r2oxIdTr-St/view?usp=drivesdk
+🎯 Development Philosophy
+-------------------------
 
----
+*   **Logic First:** A beautiful UI cannot save a broken backend.
+    
+*   **Predictability:** I build systems that behave the same way every time.
+    
+*   **Scalability:** Microservices and message queues are defaults, not afterthoughts.
+    
 
-## 🤝 Open to Collaboration
-Interested in:
-- Backend-heavy systems  
-- Full-stack (React / React Native) apps  
-- Deterministic tools & LLM-powered features  
+📫 Let's Connect
+----------------
 
-Let’s build something solid.
+*   **Email:** [rohit7120yadav@gmail.com](mailto:rohit7120yadav@gmail.com)
+    
+*   **LinkedIn:** [linkedin.com/in/rohit-yadav-522032353](https://www.linkedin.com/in/rohit-yadav-522032353)
+    
+*   **Resume:** [View My Resume](https://drive.google.com/file/d/1_LCmcalG552dRCoRHxQb9r2oxIdTr-St/view?usp=drivesdk)
