@@ -1,106 +1,176 @@
-👋 Hi, I’m Rohit Yadav
-======================
+<div align="center">
 
-🚀 **Backend Architect | AI Systems Developer | Full-Stack (React)** 🇮🇳 India
+<!-- Dynamic header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rohit%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Architect%20%E2%80%A2%20AI%20Systems%20Developer%20%E2%80%A2%20Full-Stack%20(React)&descAlignY=58&descSize=16&descColor=a78bfa&animation=fadeIn" />
 
-🧠 About Me
------------
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Event-Driven+Microservices+Architect+%F0%9F%94%A7;AI+Memory+%26+Context+Engine+Builder+%F0%9F%A7%A0;Real-Time+Systems+with+Socket.io+%E2%9A%A1)](https://git.io/typing-svg)
 
-I am a **backend-heavy engineer** specializing in building reliable, high-scale systems. I focus on **Node.js** architecture, **event-driven microservices**, and creating **deterministic memory layers** for LLMs.
+<br/>
 
-I build frontends exclusively in **React**, ensuring they are clean, functional, and tightly integrated with complex backend logic. I value **predictable system behavior** over "black-box" magic.
+[![Email](https://img.shields.io/badge/rohit7120yadav%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit7120yadav@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-yadav-522032353)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohitBCA456)
+[![Resume](https://img.shields.io/badge/View%20Resume-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1_LCmcalG552dRCoRHxQb9r2oxIdTr-St/view?usp=drivesdk)
 
-🔥 Current Focus
-----------------
+</div>
 
-*   **Event-Driven Architecture:** Using **RabbitMQ** for asynchronous task processing.
-    
-*   **Intelligent Context:** Building memory engines to give AI agents long-term persistence.
-    
-*   **System Automation:** Developing **DockerizeAI** to bridge the gap between code and infrastructure.
-    
-*   **Real-Time Web:** Scaling **Socket.io** for instant, multi-user notifications.
-    
+---
 
-🛠️ Tech Stack
---------------
+## 🧠 About Me
+
+```typescript
+const rohit: BackendArchitect = {
+  location:     "India 🇮🇳",
+  specializes:  ["Node.js Architecture", "Event-Driven Microservices", "AI Memory Layers"],
+  philosophy:   "Predictable systems over black-box magic",
+  currentFocus: [
+    "RabbitMQ async task processing",
+    "LLM long-term memory engines",
+    "DockerizeAI — code-to-infra automation",
+    "Socket.io real-time scaling",
+  ],
+  belief: "A beautiful UI cannot save a broken backend."
+};
+```
+
+---
+
+## 🔥 Current Focus
+
+| Area | What I'm Building |
+|------|-------------------|
+| ⚡ **Event-Driven Architecture** | Async task pipelines with **RabbitMQ** for zero message loss under load |
+| 🧠 **AI Memory Engine** | Deterministic long-term context retrieval layer for LLMs |
+| 🐳 **DockerizeAI** | Auto-generates Docker configs & system maps from project analysis |
+| 🔌 **Real-Time Web** | Multi-user **Socket.io** notification systems at scale |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Backend & Infrastructure**
 
-*   **Node.js & Express.js** (Core Specialization)
-    
-*   **MongoDB** (Complex Aggregations & Database Design)
-    
-*   **RabbitMQ** (Message Queuing & Microservices)
-    
-*   **Socket.io** (Real-time, Bi-directional communication)
-    
-*   **Docker** (Containerization & DevOps Automation)
-    
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Frontend (Web)**
+**Frontend**
 
-*   **React.js** (Hooks, Context API, Redux)
-    
-*   **Tailwind CSS / Bootstrap** (Responsive UI)
-    
-*   **HTML5 & CSS3**
-    
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Languages & Tools**
 
-*   **JavaScript (ES6+)** & **C**
-    
-*   **Postman** (Advanced API Testing)
-    
-*   **Node.js Test Environment** (Unit & Integration Testing)
-    
-*   **Git & GitHub** (Version Control)
-    
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Third-Party Integrations**
+**Integrations**
 
-*   **Payments:** PayPal & Stripe Gateway
-    
-*   **Communication:** Twilio (SMS) & NodeMailer (Email)
-    
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 
-💻 Featured Projects
---------------------
+</div>
 
-### 🔹 NotifyHub (Real-Time Alert Engine)
+---
 
-An asynchronous notification platform. It uses **RabbitMQ** to queue alerts and **Socket.io** to push them to the **React** frontend instantly, ensuring no message is lost during high traffic.
+## 💻 Featured Projects
 
-### 🔹 DockerizeAI (Intelligent DevOps)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A deterministic tool that analyzes project structures and automatically generates optimized **Docker** configurations and system architecture maps.
+### 🔔 NotifyHub — Real-Time Alert Engine
+> Async notification platform built for reliability under high traffic
 
-### 🔹 Intelligent Memory Engine
+- **RabbitMQ** message queuing ensures zero alert loss
+- **Socket.io** delivers instant push to React frontend
+- Designed for horizontal scale — producers and consumers decouple cleanly
+- Guarantees delivery even during backend restarts
 
-A backend service designed to provide LLMs with a "long-term memory" layer, using structured context retrieval to make AI responses more consistent and relevant over time.
+</td>
+<td width="50%" valign="top">
 
-### 🔹 Service Provider & E-Commerce Platforms
+### 🐳 DockerizeAI — Intelligent DevOps
+> Bridges the gap between code and infrastructure, automatically
 
-End-to-end applications featuring **React** frontends, secure **PayPal/Stripe** integrations, and robust role-based authentication systems.
+- Analyzes project structure and generates optimized **Dockerfiles**
+- Produces system architecture maps as a byproduct
+- Deterministic output — same input, same result, every time
+- Built for engineers who want infra-as-code without the boilerplate
 
-👉 **Explore my repositories:** [github.com/RohitBCA456](https://github.com/RohitBCA456)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-🎯 Development Philosophy
--------------------------
+### 🧠 Intelligent Memory Engine
+> Long-term memory layer for LLMs — because context matters
 
-*   **Logic First:** A beautiful UI cannot save a broken backend.
-    
-*   **Predictability:** I build systems that behave the same way every time.
-    
-*   **Scalability:** Microservices and message queues are defaults, not afterthoughts.
-    
+- Structured context retrieval for persistent AI memory
+- Makes LLM responses consistent and semantically relevant
+- Backend service designed to plug into any AI agent pipeline
+- Solves the "goldfish memory" problem in production AI apps
 
-📫 Let's Connect
-----------------
+</td>
+<td width="50%" valign="top">
 
-*   **Email:** [rohit7120yadav@gmail.com](mailto:rohit7120yadav@gmail.com)
-    
-*   **LinkedIn:** [linkedin.com/in/rohit-yadav-522032353](https://www.linkedin.com/in/rohit-yadav-522032353)
-    
-*   **Resume:** [View My Resume](https://drive.google.com/file/d/1_LCmcalG552dRCoRHxQb9r2oxIdTr-St/view?usp=drivesdk)
+### 🛒 Service & E-Commerce Platforms
+> End-to-end full-stack applications with enterprise-grade auth
+
+- **React** frontend with role-based access control
+- Secure **PayPal** & **Stripe** payment integrations
+- Robust backend with JWT authentication flows
+- SMS & email notifications via **Twilio** & **NodeMailer**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=RohitBCA456&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0](https://github-readme-stats.vercel.app/api?username=RohitBCA456&show_icons=true&theme=midnight-purple&include_all_commits=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0)" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitBCA456&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RohitBCA456&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎯 Development Philosophy
+
+> *"Logic first. A beautiful UI cannot save a broken backend."*
+
+```
+✦  Predictability     →  Systems behave the same way, every single time
+✦  Scalability        →  Microservices & message queues are defaults, not afterthoughts  
+✦  Determinism        →  No black-box magic — only verifiable, traceable behavior
+✦  Reliability        →  If it can fail, it will. Build for failure first.
+```
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+
+**Thanks for visiting — let's build something reliable together.**
+
+</div>
